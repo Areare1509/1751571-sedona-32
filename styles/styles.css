@@ -38,7 +38,7 @@ body {
 .intro {
   background-color: #83B3D3;
   background-image: url("../images/background-image/index-background.jpg");
-  background-size: 100% auto;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 /* Стили для кнопок */
@@ -160,7 +160,7 @@ body {
   text-align: center;
   background-color: #83B3D3;
   background-image: url("../images/background-image/background.jpg");
-  background-size: 100% auto;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 
@@ -196,7 +196,7 @@ body {
 .inner-header {
   background-color: #83B3D3;
   background-image: url("../images/background-image/catalog-background-1.jpg");
-  background-size: 100% auto;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 
